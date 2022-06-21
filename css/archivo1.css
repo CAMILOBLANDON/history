@@ -1,0 +1,14 @@
+body{
+    color: 	#483D8B;
+    text-align:center;
+    font-family:Helvetica;
+    font-size: 50px;
+    background: #F8F8FF;
+}
+.titulo{
+    color: rgb(177, 14, 12);
+    font-size: 40px;
+}
+.parafo{
+    font-size:small;
+}
