@@ -1,9 +1,12 @@
-body{
+*{
+    margin: 5px;
+    
     color: 	#483D8B;
     text-align:center;
     font-family:Helvetica;
     font-size: 50px;
     background: #F8F8FF;
+    border-radius: 5px;
 }
 #cont{
     display: inline-block;
@@ -11,27 +14,29 @@ body{
     background: #333;
     border: 1px solid black;
     padding: 10px;
-    border-radius: 5px;
+    margin: 5px;
     text-align: left;
+}
+.cabecera{
+    display: block;
+    background: rgb(139, 138, 138);
+    margin: 5px;
 }
 .titulo{
-    
-    display: inline;
-    color: rgb(177, 14, 12);
-    font-size: 40px;
-    background:rgb(139, 138, 138);
-    border-radius: 5px;
-    padding: 5px;
+    display: inline-block;
     text-align: left;
+    color: rgb(56, 34, 70);
+    background:rgb(139, 138, 138);
+    margin: 5px;
+    padding:5px;
 }
 .parrafo{
-    
-    display: inline-block;
-    font-size:20px;
+    margin: 0px;
+    display: block;
     background: rgb(139, 138, 138);
-    border-radius: 5px;
-    padding: 5px;
     text-align: left;
+    padding: 5px;
+
 }
 .cont_img{
    
