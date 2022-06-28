@@ -12,23 +12,29 @@ body{
     border: 1px solid black;
     padding: 10px;
     border-radius: 5px;
+    text-align: left;
 }
 .titulo{
+    
     display: inline;
     color: rgb(177, 14, 12);
     font-size: 40px;
     background:rgb(139, 138, 138);
     border-radius: 5px;
     padding: 5px;
+    text-align: left;
 }
 .parrafo{
+    
     display: inline-block;
     font-size:20px;
     background: rgb(139, 138, 138);
     border-radius: 5px;
     padding: 5px;
+    text-align: left;
 }
 .cont_img{
+   
     text-align: center;
        display: block;
     border-radius: 100%;
