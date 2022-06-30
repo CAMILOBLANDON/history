@@ -11,8 +11,10 @@ body{
     display: inline-block;
     width:auto ; 
     border: 1px solid rgb(0, 0, 0);
-    
     text-align: left;
+    margin-top: 20px;
+ 
+    border-radius: 5px;
 }
 .cabecera{
     display: block;
@@ -51,6 +53,7 @@ body{
        display: block;
     border-radius: 100%;
     align-items: center;
+    margin-top: 50px;
 }
 .img{
     border-radius: 100%;
