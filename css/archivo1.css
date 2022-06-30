@@ -1,39 +1,51 @@
-*{
-    margin: 5px;
+body{
+   
     
-    color: 	#483D8B;
+
     text-align:center;
     font-family:Helvetica;
-    font-size: 50px;
+    font-size:56px;
     background: #F8F8FF;
-    border-radius: 5px;
+     
+    margin: 0px;
+    padding: 0px;
+    
 }
 #cont{
     display: inline-block;
     width:auto ; 
-    background: #333;
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0);
     padding: 10px;
     margin: 5px;
     text-align: left;
 }
 .cabecera{
     display: block;
-    background: rgb(139, 138, 138);
-    margin: 5px;
+    background: #2D3047;
+    color: white;
+    box-shadow: 0px 2px 20px 0px rgb(0, 0, 0);
+    text-align: left;
+    font-weight: bold;
+    margin: 0px;
+    padding: 5px;
+    
+}
+.cabecera .inter{
+    display: inline;
+    background: #2D3047;
+    color: white;
+    padding-left: 450px;
+    font-size: 50px;
 }
 .titulo{
-    display: inline-block;
+    display: block;
     text-align: left;
-    color: rgb(56, 34, 70);
-    background:rgb(139, 138, 138);
     margin: 5px;
     padding:5px;
 }
 .parrafo{
-    margin: 0px;
+    margin: 5px;
     display: block;
-    background: rgb(139, 138, 138);
     text-align: left;
     padding: 5px;
 
