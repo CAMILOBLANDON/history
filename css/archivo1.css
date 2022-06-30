@@ -1,12 +1,8 @@
 body{
-   
-    
-
     text-align:center;
     font-family:Helvetica;
     font-size:56px;
     background: #F8F8FF;
-     
     margin: 0px;
     padding: 0px;
     
@@ -15,8 +11,7 @@ body{
     display: inline-block;
     width:auto ; 
     border: 1px solid rgb(0, 0, 0);
-    padding: 10px;
-    margin: 5px;
+    
     text-align: left;
 }
 .cabecera{
